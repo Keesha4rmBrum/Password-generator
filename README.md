@@ -15,4 +15,8 @@ WHEN I answer each prompt
 THEN my input should be validated and at least one character type should be selecte.
 WHEN all prompts are answered and the input meets the criteria, a password is generated and displayed. 
 
+## Screenshot
 ![Password Generator](https://user-images.githubusercontent.com/113778804/202543406-c67d1944-406b-4ec0-a3eb-148d526bf63b.png)
+
+## Link to the deployed application:
+https://keesha4rmbrum.github.io/Password-generator/ 
